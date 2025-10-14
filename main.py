@@ -37,7 +37,7 @@ with st.form("travel_form"):
         if not all([starting_point,destination,starting_date,ending_date,budget,trip_type]):
             st.error(":warning: please fill all the fields")
         else:
-            with st.spinner("Generating your trip plan ......",show_time=True):
+            with st.spinner("Generating your trip plan .... it will take time",show_time=True):
                 time.sleep(10)
                 prompt=f"""You are an expert AI travel planner who specializes in creating fun, budget-friendly, and efficient itineraries for students.
 
