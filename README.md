@@ -1,8 +1,6 @@
 # 🧭 AI Travel Planner for Students ✈️  
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
-![License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/rahulghub8279/Travel-Planner?style=social)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit) 
 
 ---
 
