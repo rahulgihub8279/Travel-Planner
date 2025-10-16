@@ -1,4 +1,7 @@
+<img width="1536" height="1024" alt="AI यात्रा योजनाकार - Streamlit + Gemini" src="https://github.com/user-attachments/assets/59702293-83a5-42b1-89ca-52c79f9f205b" />
+
 # 🧭 AI Travel Planner for Students ✈️  
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit) 
 
