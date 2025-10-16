@@ -27,7 +27,7 @@ It provides **personalized itineraries**, **budget recommendations**, and **smar
 |------------|-------------|
 | 🖥️ **Frontend** | Streamlit |
 | ⚙️ **Backend** | Python |
-| 🤖 **AI Model** | Google Gemini API |
+| 🤖 **AI Model** | Google Gemini flash-2.5 |
 | 🔐 **Environment Management** | python-dotenv |
 | 🧾 **Version Control** | GitHub |
 
